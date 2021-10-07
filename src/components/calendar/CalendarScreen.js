@@ -15,7 +15,7 @@ import { AddNewFab } from '../ui/AddNewFab';
 import { DeleteEventFab } from '../ui/DeleteEventFab';
 
 // TODO: #1 Translate to spanish
-// TODO: On click in slot will set the date and hour from the event.
+// TODO: #2 On click in slot will set the date and hour from the event.
 
 // Setup the localizer by providing the moment (or globalize) Object
 // to the correct localizer.
