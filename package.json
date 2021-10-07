@@ -21,7 +21,8 @@
     "react-scripts": "3.4.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "sweetalert2": "^9.14.3"
+    "sweetalert2": "^9.17.2",
+    "validator": "^13.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
